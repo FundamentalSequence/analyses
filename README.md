@@ -1,2 +1,1 @@
-# analyses
-Analyses of many googological notations.
+This is a site where the Googology community can edit this, for individual analyses of notations, instead of looking at the sheet analysis https://docs.google.com/spreadsheets/d/1PYoBGEVlSHArqAANcAnFXPjNrjQ6DGJu1iXCw--enDs/. It uses KaTex so we get fast loading times and the LaTex math symbols. This site will have faster loading times and less lag than googole sheets.
